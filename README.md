@@ -1,2 +1,1 @@
-# common-gas-presentation
-common-gas-presentation
+[README](https://github.com/google/clasp/)
